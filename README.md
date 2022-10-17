@@ -1,6 +1,5 @@
 # Hacktober2022
 Creating a repository for doing git practice 
 #FirstChange
-fkjwebufe
-djhewaf
+OK This is 2nd time
 
